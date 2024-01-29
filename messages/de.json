@@ -1,0 +1,11 @@
+{
+  "IndexPage": {
+    "title": "next-intl Beispiel",
+    "description": "Dies ist ein Beispiel, das die Verwendung von next-intl mit dem Next.js App Router demonstriert. Bei Ändern der Sprache rechts oben ändert sich der Inhalt dieser Seite."
+  },
+  "NotFoundPage": {
+    "title": "Seite nicht gefunden",
+    "description": "Bitte überprüfe die Addressleiste deines Browsers oder verwende die Navigation um zu einer bekannten Seite zu wechseln.",
+    "button": "Zurück zur Startseite"
+  }
+}
